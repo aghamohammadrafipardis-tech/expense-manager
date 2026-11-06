@@ -9,22 +9,13 @@ A simple command-line expense tracker built with Python and Pandas.
 - 📊 Show all expenses grouped by category with totals
 - 💾 Persistent storage in a CSV file
 
-## 🧰 Requirements
+## 🛠️ Technologies Used
 
-- 🐍 Python 3.9+
-- 🐼 pandas 2.0+
+- **Language:** Python
+- **Library:** pandas
+- **Storage:** CSV file (`expenses.csv`)
+- **Interface:** Command Line (CLI)
 
-## 🚀 Installation
-
-```bash
-pip install -r requirements.txt
-```
-
-## 🎮 Usage
-
-```bash
-python main.py
-```
 
 The program shows the following menu:
 
